@@ -1,13 +1,13 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "A tiny live-reload dev server: one ~1 MB binary, no Node.js. Works from the CLI, VS Code and Zed.",
     "homepage": "https://github.com/NguyenTruong354/live-serve",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NguyenTruong354/live-serve/releases/download/v0.4.1/live-serve-v0.4.1-x86_64-pc-windows-msvc.zip",
-            "hash": "aa3a3429bdfd618892ba84a834547b8bcf06d4a7380b273267e753d103a4e00b",
-            "extract_dir": "live-serve-v0.4.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/NguyenTruong354/live-serve/releases/download/v0.4.2/live-serve-v0.4.2-x86_64-pc-windows-msvc.zip",
+            "hash": "0c66419fa2c8ffb78a68e374e44c0e6a98a2e0987469f4ee19b9dea41f269d37",
+            "extract_dir": "live-serve-v0.4.2-x86_64-pc-windows-msvc"
         }
     },
     "bin": "live-serve.exe",
